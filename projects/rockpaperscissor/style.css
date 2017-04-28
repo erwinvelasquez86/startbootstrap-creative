@@ -1,0 +1,30 @@
+#display {
+    height: 300px; 
+    width: 600px;
+    border-style: solid;
+    background-color: gray;
+    display: flex;
+
+}
+
+.innerdisplay {
+    height: 250px;
+    width: 200px;
+    text-align: center;
+    line-height: 225px;
+    font-size: 30px;
+}
+
+#player1{
+    
+
+}
+
+#computer {
+    
+}
+
+.none {
+    display: none;
+
+}
